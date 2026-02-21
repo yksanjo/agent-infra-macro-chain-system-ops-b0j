@@ -1,0 +1,23 @@
+{
+  "name": "agent-infra-macro-chain-system-ops-b0j",
+  "version": "1.0.0",
+  "description": "Scalable microservice architecture",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "infrastructure",
+    "macro-chain-system-ops-b0j"
+  ],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/agent-infra-macro-chain-system-ops-b0j.git"
+  }
+}
